@@ -7,9 +7,17 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "node index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/momviseu/h.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/momviseu/h/issues"
+  },
+  "homepage": "https://github.com/momviseu/h#readme",
   "dependencies": {
     "express": "^4.18.2"
   }
